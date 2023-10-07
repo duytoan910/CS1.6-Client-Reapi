@@ -1,0 +1,3 @@
+L 10/07/2023 - 09:48:53: Start of error session.
+L 10/07/2023 - 09:48:53: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20231007.log")
+L 10/07/2023 - 09:48:53: [AMXX] Load error 17 (invalid file format or version) (plugin "statsx.amxx")

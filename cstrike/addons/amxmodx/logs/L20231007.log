@@ -1,0 +1,10 @@
+L 10/07/2023 - 09:48:53: -------- Mapchange to de_dust2 --------
+L 10/07/2023 - 09:48:55: [admin.amxx] Login: "<Warrior> Player<1><STEAM_0:0:1802165859><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 10/07/2023 - 09:48:55: [admin.amxx] Login: "<Warrior> Player<1><STEAM_0:0:1802165859><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstu") (address "loopback")
+L 10/07/2023 - 09:49:18: [AMXX] Could not free plugin memory, failure 487.
+L 10/07/2023 - 09:50:18: client_disconnected and client_remove forwards have been disabled - check your gamedata files.
+L 10/07/2023 - 09:50:18: Binding/Hooking cvars have been disabled - check your gamedata files.
+L 10/07/2023 - 09:50:18: -------- Mapchange to de_dust2 --------
+L 10/07/2023 - 09:50:18: [CSX] Could not load csstats file: cstrike\addons\amxmodx\data\csstats.dat
+L 10/07/2023 - 09:50:20: [admin.amxx] Login: "<Warrior> Player<1><STEAM_0:0:1802165859><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
+L 10/07/2023 - 09:50:21: [admin.amxx] Login: "<Warrior> Player<1><STEAM_0:0:1802165859><>" became an admin (account "loopback") (access "abcdefghijklmnopqrstuv") (address "loopback")
